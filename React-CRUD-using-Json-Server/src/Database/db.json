@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "aryan",
+      "username": "raj",
+      "email": "aryan@gmail.com",
+      "phone": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "akash",
+      "username": "akashsingh",
+      "email": "akash@gmail.com",
+      "phone": "98786756564",
+      "id": 2
+    },
+    {
+      "name": "Krishnan",
+      "username": "skrishnan2001",
+      "email": "skrishnan2001@gmail.com",
+      "phone": "9082010775",
+      "id": 6
+    },
+    {
+      "name": "Vishnu Vasan",
+      "username": "vasan2001",
+      "email": "vasan2001@gmail.com",
+      "phone": "9082010775",
+      "id": 7
+    }
+  ]
+}
